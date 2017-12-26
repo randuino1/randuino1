@@ -1,3 +1,5 @@
+
 A0 = HIGH;
 A1 = LOW;
 A2 = LOW;
+A3 = HIGH;
